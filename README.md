@@ -5,7 +5,6 @@
   🍦I’m majoring in statistics and software convergence🎈
     
     
-----------------------
     
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlek555)](https://solved.ac/chlek555)
