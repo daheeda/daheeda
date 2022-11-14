@@ -1,6 +1,6 @@
 <div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHEEDA&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌷DAHEEDA🌷&fontSize=70)
   
   🍦I’m majoring in statistics and software convergence🎈
     
