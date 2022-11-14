@@ -2,7 +2,7 @@
     
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHEEDA&fontSize=70)
 
-<h2> ෆ_ABOUT_ME_ෆ <h2>
+<h2> ෆ_ABOUT_ME_ෆ </h2>
   
   I’m majoring in statistics and software convergence.
     
