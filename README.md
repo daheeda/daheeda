@@ -1,10 +1,10 @@
 <div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHEEDA&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=DAHEEDA&fontSize=70)
 
 <h2> ෆ_ABOUT_ME_ෆ </h2>
   
-- 
+-  I’m majoring in statistics and software convergence.
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlek555)](https://solved.ac/chlek555)
   
