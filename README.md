@@ -4,7 +4,7 @@
 
 <h2> ෆ_ABOUT_ME_ෆ </h2>
   
-    - ddd
+* ddd
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlek555)](https://solved.ac/chlek555)
   
