@@ -2,7 +2,8 @@
     
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DAHEE&fontSize=70)
   
-  🍦I’m majoring in statistics and software convergence🎈
+  🍦I’m majoring in statistics and software convergence
+    🥰 contact : chlek555@dgu.ac.kr
     
     
     
