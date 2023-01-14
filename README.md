@@ -8,7 +8,7 @@
     
    contact : chlek555@dgu.ac.kr
     
-  🍦
+ 
     
     
     
@@ -17,7 +17,7 @@
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlek555)](https://solved.ac/chlek555)
   
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=chlek555&theme=white)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=chlek555&theme=black)
   
     
 
