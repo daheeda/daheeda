@@ -1,12 +1,12 @@
 <div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🎀%20HI!%20I'M%20DAHEE%20🎀&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🦖%20HI!%20I'M%20DAHEE%20🎀&fontSize=70)
   
   
   
-   I’m majoring in `statistics` and `software convergence`.
+  🎈 I’m majoring in `statistics` and `software convergence` 🎈
     
-   contact : chlek555@dgu.ac.kr
+   🎈 contact : chlek555@dgu.ac.kr 🎈
     
  
     
