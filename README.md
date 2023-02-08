@@ -1,19 +1,19 @@
-<div align = center>
+<div align = left>
     
   ![header](https://capsule-render.vercel.app/api?type=Shark&color=ffe8db&height=150&section=header&text=🦖%20HI!%20I'M%20DAHEE%20🦖&fontSize=70)
   
   
   
-  🎈 I’m majoring in `statistics` and `software convergence` 🎈
+- I’m majoring in `statistics` and `software convergence` 
     
-   🎈 contact : chlek555@dgu.ac.kr 🎈
+- contact : chlek555@dgu.ac.kr 🎈
     
  
     
     
     
     
-
+<div align = centor>
     
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=chlek555)](https://solved.ac/chlek555)
   
