@@ -1,6 +1,6 @@
 <div align = left>
     
-  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:c4e87d,100:ffe8db&height=150&section=header&text=HI!%20I'M%20DAHEE%20🧸&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:c4e87d,100:ffe8db&height=150&section=header&text=&fontSize=60)
   
   
   
