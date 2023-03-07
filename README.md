@@ -19,3 +19,8 @@ My e-mail, chlek555@dgu.ac.kr
   
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdaheeda&count_bg=%23FFB6C1&title_bg=%23000000&icon=github.svg&icon_color=%23FFB6C1&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+
+    
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:DDA0DD,50:20B2AA,100:FFEBCD&height=80&section=header&text=&fontSize=30)
+  
+  
