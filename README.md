@@ -1,6 +1,6 @@
 <div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:6495ED,50:20B2AA,100:6B8E23&height=80&section=header&text=&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:DDA0DD,50:20B2AA,100:6B8E23&height=80&section=header&text=&fontSize=60)
   
   
   
@@ -8,12 +8,9 @@ Hi, I'm dahee.
     
 I’m majoring in statistics and software convergence. 
     
-I am interested in artificial intelligence.  
+I'm interested in artificial intelligence.  
     
 My e-mail, chlek555@dgu.ac.kr 
-    
- 
-    
     
     
     
