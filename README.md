@@ -1,12 +1,14 @@
-<div align = left>
+<div align = center>
     
-  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:c4e87d,100:ffe8db&height=100&section=header&text=&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=Shark&color=0:c4e87d,100:ffe8db&height=50&section=header&text=&fontSize=60)
   
   
   
-Hi, I'm dahee. I’m majoring in `statistics` and `software convergence`. I am interested in artificial intelligence :) 
+Hi, I'm dahee. 
+I’m majoring in statistics and software convergence. 
+I am interested in artificial intelligence.  
     
-- contact : chlek555@dgu.ac.kr 🎈
+My e-mail, chlek555@dgu.ac.kr 
     
  
     
